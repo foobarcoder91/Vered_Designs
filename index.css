@@ -27,13 +27,13 @@ body {
   }
 
 #slogan {
- font-size: 36px;
+    font-size: 35px;
     margin-left: 243px;
     margin-bottom: -76px;
     position: relative;
     bottom: 170px;
     text-align: center;
-    text-shadow: 2px 2px #fff;
+    font-family: arial;
 }
 
 #slogan-2 {
@@ -42,7 +42,7 @@ body {
   margin-bottom: -171px;
   position: relative;
   bottom: 124px;
-  text-shadow: 2px 2px #fff; 
+  font-family:arial;
 }
 
 /*#phone {
@@ -67,7 +67,8 @@ body {
   background-color: red;
   height: 47px;
   line-height: 29px;
-  word-spacing: 144px; 
+  word-spacing: 144px;
+  margin-top:58px; 
 }
   #nav-bar .links {
     color: #fff;
