@@ -6,10 +6,6 @@ html {
   background-size: cover;
 }
 
-body {
-/*  background: #ffe4e1; 
-*/}
-
 #oval {
   width: 200px;
   height: 142px;
@@ -46,24 +42,6 @@ body {
   color:aquamarine;
 }
 
-/*#phone {
-  text-align: right;
-  margin-right: 240px;
-  font-size: 59px;
-  margin-bottom: -152px;
-  position: relative;
-  bottom: 84px;
-  left: -209px; 
-}
-
-#number {
-  text-align: right;
-  position: relative;
-  right: 261px;
-  font-size: 30px;
-  bottom: 13px; 
-}*/
-
 #nav-bar {
   background-color: red;
   height: 47px;
@@ -82,18 +60,3 @@ body {
     background-color: magenta;
     cursor: pointer; 
   }
-
-#title {
-  font-family: "Shrikhand", cursive;
-  color: #000;
-  font-size: 52px;
-  text-shadow: 2px 2px #fff; 
-}
-
-.info {
-  font-size: 40px;
-  margin-right: 482px;
-  margin-top: 41px;
-  font-size: 30px;
-  color: #fff; 
-}
