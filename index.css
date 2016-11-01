@@ -15,85 +15,68 @@ body {
   height: 142px;
   border-radius: 100px 69px;
   background: #FF4D00;
-  margin-left: 27px; 
-}
+  margin-left: 27px; }
   #oval #header {
     text-align: center;
     font-family: "Shrikhand", cursive;
     color: #ffe4e1;
     font-size: 40px;
     background-image: url("img/landing-kitchen.jpg") no-repeat;
-    background-size: 100% 100%; 
-  }
+    background-size: 100% 100%; }
 
 #slogan {
-    font-size: 35px;
-    margin-left: 243px;
-    margin-bottom: -76px;
-    position: relative;
-    bottom: 170px;
-    text-align: center;
-    font-family: arial;
-}
+  font-size: 40px;
+  margin-left: 243px;
+  margin-bottom: -76px;
+  position: relative;
+  bottom: 170px; }
 
 #slogan-2 {
   font-size: 40px;
   margin-left: 246px;
   margin-bottom: -171px;
   position: relative;
-  bottom: 124px;
-  font-family:arial;
-  color:aquamarine;
-}
+  bottom: 124px; }
 
-/*#phone {
+#phone {
   text-align: right;
   margin-right: 240px;
   font-size: 59px;
   margin-bottom: -152px;
   position: relative;
   bottom: 84px;
-  left: -209px; 
-}
+  left: -209px; }
 
 #number {
   text-align: right;
   position: relative;
   right: 261px;
   font-size: 30px;
-  bottom: 13px; 
-}*/
+  bottom: 13px; }
 
 #nav-bar {
   background-color: red;
   height: 47px;
   line-height: 29px;
-  word-spacing: 144px;
-  margin-top:58px; 
-}
+  word-spacing: 144px; }
   #nav-bar .links {
     color: #fff;
     display: inline-block;
     margin: 11px 13px 31px 163px;
     font-size: 29px;
     font-family: "Shrikhand", cursive; }
-  
   #nav-bar .links:hover {
     background-color: magenta;
-    cursor: pointer; 
-  }
+    cursor: pointer; }
 
 #title {
   font-family: "Shrikhand", cursive;
   color: #000;
   font-size: 52px;
-  text-shadow: 2px 2px #fff; 
-}
+  text-shadow: 2px 2px #fff; }
 
 .info {
   font-size: 40px;
   margin-right: 482px;
   margin-top: 41px;
-  font-size: 30px;
-  color: #fff; 
-}
+  font-size: 30px; }
